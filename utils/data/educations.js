@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Degree in Bachelors Of Computer Applications",
+    duration: "2022 - 2025",
+    institution: "HKBK Group Of Institutions | BCA (2025) - 8.55 CGPA",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Pre-University College",
+    duration: "2019 - 2021",
+    institution: "Shaheen Falcon IND PU College | II PUC (2021) - 94.33%",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Schooling",
+    duration: "2009 - 2019",
+    institution: "Vatican High School | SSLC (2019) - 92.48%",
   }
 ]
